@@ -2,9 +2,9 @@
 
 I am Furkan Zerman. A junior web developer and university student. You can find all necessary links in [Linktree Page](https://linktr.ee/stingydev)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Swindler36&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=fzerman&show_icons=true&hide_border=true)
 
-* [Dev Blog](https://swindler36.github.io/blog/)
+* [Portfolio](https://fzerman.github.io/)
 * [GDBeginner](http://gdbeginner.com/)
 * [Kapseli](https://kapseli.stingydev.com/)
 * [Kabina](https://kabina.stingydev.com/)
