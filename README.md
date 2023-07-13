@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Furkan Zerman. A junior web developer and university student. You can find all necessary links in [Linktree Page](https://linktr.ee/stingydev)
+I am Furkan Zerman. A Mid web developer and university student. You can find all necessary links in [Linktree Page](https://linktr.ee/stingydev)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=fzerman&show_icons=true&hide_border=true)
 
